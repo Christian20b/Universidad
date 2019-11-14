@@ -2,8 +2,6 @@
 
 ## **DATOS PERSONALES**
 
-![Texto Alt](C:\Users\christian\Desktop.jpg)
-
 **Nombre:** Christian Adonis Albia
 
 **Edad:** 20 años
